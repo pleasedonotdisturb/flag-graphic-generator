@@ -4,4 +4,4 @@
 
 A graphic generator inspired from [a mall decor](https://imgur.com/a/0lr1WJB). Created for Philippine Independence Day 2023. _Maligayang Araw ng Kagitingan, Pilipinas!_
 
-[Live Demo](https://codepen.io/pleasedonotdisturb/pen/KKrpQrM)
+[Live Demo](https://codepen.io/pleasedonotdisturb/full/KKrpQrM)
